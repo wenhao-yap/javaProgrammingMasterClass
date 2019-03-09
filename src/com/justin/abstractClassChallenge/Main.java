@@ -1,4 +1,4 @@
-package com.justin.abstractclasschallenge;
+package com.justin.abstractClassChallenge;
 
 public class Main {
   public static void main(String[] args) {

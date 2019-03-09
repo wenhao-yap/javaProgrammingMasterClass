@@ -1,4 +1,4 @@
-package com.justin.abstractclasschallenge;
+package com.justin.abstractClassChallenge;
 
 public class Node extends ListItem{
   public Node(Object value) {

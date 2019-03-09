@@ -1,4 +1,4 @@
-package com.justin.abstractclasschallenge;
+package com.justin.abstractClassChallenge;
 
 public abstract class ListItem {
   protected ListItem rightLink = null;
